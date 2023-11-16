@@ -1,0 +1,1001 @@
+Namespace(test_fraction=0.05, epochs=200, factorization_weight=0.99, regression_weight=0.01, shared_embeddings=True, logdir='run/shared=True_LF=0.99_LR=0.01')
+training/Factorization Loss : 0.4622338902886196 , epoch 0
+training/MSE : 3.4436153835186394 , epoch 0
+training/Joint Loss : 0.4920477090824035 , epoch 0
+eval/Mean Reciprocal Rank : 0.051384574516103614 , epoch 0
+eval/MSE : 0.9452730417251587 , epoch 0
+training/Factorization Loss : 0.30788738973518853 , epoch 1
+training/MSE : 0.9058541743665613 , epoch 1
+training/Joint Loss : 0.3138670614890514 , epoch 1
+eval/Mean Reciprocal Rank : 0.05678238807165781 , epoch 1
+eval/MSE : 0.8933939337730408 , epoch 1
+training/Factorization Loss : 0.23509027067852276 , epoch 2
+training/MSE : 0.8739060467930251 , epoch 2
+training/Joint Loss : 0.2414784308082314 , epoch 2
+eval/Mean Reciprocal Rank : 0.05798510261556285 , epoch 2
+eval/MSE : 0.8830072283744812 , epoch 2
+training/Factorization Loss : 0.2154244799767771 , epoch 3
+training/MSE : 0.8648933098521284 , epoch 3
+training/Joint Loss : 0.22191917031042038 , epoch 3
+eval/Mean Reciprocal Rank : 0.058085998027755006 , epoch 3
+eval/MSE : 0.8881757855415344 , epoch 3
+training/Factorization Loss : 0.20601097105812 , epoch 4
+training/MSE : 0.8572268836921261 , epoch 4
+training/Joint Loss : 0.21252313168138587 , epoch 4
+eval/Mean Reciprocal Rank : 0.05788059517809392 , epoch 4
+eval/MSE : 0.8733430504798889 , epoch 4
+training/Factorization Loss : 0.20018032581735684 , epoch 5
+training/MSE : 0.8506327974860386 , epoch 5
+training/Joint Loss : 0.20668485191881017 , epoch 5
+eval/Mean Reciprocal Rank : 0.05745573420815911 , epoch 5
+eval/MSE : 0.8682497143745422 , epoch 5
+training/Factorization Loss : 0.19868455855275996 , epoch 6
+training/MSE : 0.8444759581358202 , epoch 6
+training/Joint Loss : 0.20514247394216958 , epoch 6
+eval/Mean Reciprocal Rank : 0.06006464771886101 , epoch 6
+eval/MSE : 0.8771816492080688 , epoch 6
+training/Factorization Loss : 0.1924510203822646 , epoch 7
+training/MSE : 0.8373180573345512 , epoch 7
+training/Joint Loss : 0.19889969218482254 , epoch 7
+eval/Mean Reciprocal Rank : 0.05933806132785401 , epoch 7
+eval/MSE : 0.8638163805007935 , epoch 7
+training/Factorization Loss : 0.19076053794193013 , epoch 8
+training/MSE : 0.8280747452730773 , epoch 8
+training/Joint Loss : 0.19713368202729892 , epoch 8
+eval/Mean Reciprocal Rank : 0.06236426866096418 , epoch 8
+eval/MSE : 0.8573472499847412 , epoch 8
+training/Factorization Loss : 0.18657492625937666 , epoch 9
+training/MSE : 0.821696487325494 , epoch 9
+training/Joint Loss : 0.19292614288547988 , epoch 9
+eval/Mean Reciprocal Rank : 0.06324547664175993 , epoch 9
+eval/MSE : 0.8698405027389526 , epoch 9
+training/Factorization Loss : 0.18374056872781566 , epoch 10
+training/MSE : 0.8171050715991246 , epoch 10
+training/Joint Loss : 0.1900742148019133 , epoch 10
+eval/Mean Reciprocal Rank : 0.06715547728468538 , epoch 10
+eval/MSE : 0.848975419998169 , epoch 10
+training/Factorization Loss : 0.1822065752280015 , epoch 11
+training/MSE : 0.809492093020229 , epoch 11
+training/Joint Loss : 0.18847943161443997 , epoch 11
+eval/Mean Reciprocal Rank : 0.06833140900239192 , epoch 11
+eval/MSE : 0.8451861143112183 , epoch 11
+training/Factorization Loss : 0.17732803030840813 , epoch 12
+training/MSE : 0.8046621959055623 , epoch 12
+training/Joint Loss : 0.18360137360631137 , epoch 12
+eval/Mean Reciprocal Rank : 0.07009564339066056 , epoch 12
+eval/MSE : 0.8496583700180054 , epoch 12
+training/Factorization Loss : 0.17420175563423865 , epoch 13
+training/MSE : 0.8001581185287044 , epoch 13
+training/Joint Loss : 0.18046132086585925 , epoch 13
+eval/Mean Reciprocal Rank : 0.0726187447399737 , epoch 13
+eval/MSE : 0.8568124175071716 , epoch 13
+training/Factorization Loss : 0.17234333480898573 , epoch 14
+training/MSE : 0.7930538348292792 , epoch 14
+training/Joint Loss : 0.17855044073295048 , epoch 14
+eval/Mean Reciprocal Rank : 0.07500104195914185 , epoch 14
+eval/MSE : 0.8556103706359863 , epoch 14
+training/Factorization Loss : 0.16767328697186645 , epoch 15
+training/MSE : 0.7872839743091214 , epoch 15
+training/Joint Loss : 0.17386939566862838 , epoch 15
+eval/Mean Reciprocal Rank : 0.07694180147662097 , epoch 15
+eval/MSE : 0.8426623940467834 , epoch 15
+training/Factorization Loss : 0.16483147632611053 , epoch 16
+training/MSE : 0.7797431112617574 , epoch 16
+training/Joint Loss : 0.1709805937303651 , epoch 16
+eval/Mean Reciprocal Rank : 0.07869354173224374 , epoch 16
+eval/MSE : 0.8444724678993225 , epoch 16
+training/Factorization Loss : 0.1611448746895598 , epoch 17
+training/MSE : 0.7726359367370605 , epoch 17
+training/Joint Loss : 0.16725978655840762 , epoch 17
+eval/Mean Reciprocal Rank : 0.08287069749120338 , epoch 17
+eval/MSE : 0.8345189690589905 , epoch 17
+training/Factorization Loss : 0.15814256091271678 , epoch 18
+training/MSE : 0.7689192960018753 , epoch 18
+training/Joint Loss : 0.16425032969764483 , epoch 18
+eval/Mean Reciprocal Rank : 0.08545402126669487 , epoch 18
+eval/MSE : 0.8317611217498779 , epoch 18
+training/Factorization Loss : 0.15650024648971095 , epoch 19
+training/MSE : 0.7618806376572578 , epoch 19
+training/Joint Loss : 0.1625540518171845 , epoch 19
+eval/Mean Reciprocal Rank : 0.0874475504254066 , epoch 19
+eval/MSE : 0.8317176699638367 , epoch 19
+training/Factorization Loss : 0.1540695179093589 , epoch 20
+training/MSE : 0.7595176310628973 , epoch 20
+training/Joint Loss : 0.16012400040222752 , epoch 20
+eval/Mean Reciprocal Rank : 0.08980657659920725 , epoch 20
+eval/MSE : 0.8448837995529175 , epoch 20
+training/Factorization Loss : 0.1541950130855204 , epoch 21
+training/MSE : 0.7539593976351523 , epoch 21
+training/Joint Loss : 0.1601926582234521 , epoch 21
+eval/Mean Reciprocal Rank : 0.09224075139290011 , epoch 21
+eval/MSE : 0.8359445333480835 , epoch 21
+training/Factorization Loss : 0.15108865813943007 , epoch 22
+training/MSE : 0.749852896537832 , epoch 22
+training/Joint Loss : 0.15707630189436098 , epoch 22
+eval/Mean Reciprocal Rank : 0.09101627641951328 , epoch 22
+eval/MSE : 0.834618330001831 , epoch 22
+training/Factorization Loss : 0.14956741067030097 , epoch 23
+training/MSE : 0.7477866135617738 , epoch 23
+training/Joint Loss : 0.15554960394498482 , epoch 23
+eval/Mean Reciprocal Rank : 0.09165214060551659 , epoch 23
+eval/MSE : 0.8370654582977295 , epoch 23
+training/Factorization Loss : 0.1486705848246172 , epoch 24
+training/MSE : 0.7434104463105561 , epoch 24
+training/Joint Loss : 0.1546179848292502 , epoch 24
+eval/Mean Reciprocal Rank : 0.091850899123543 , epoch 24
+eval/MSE : 0.8366422653198242 , epoch 24
+training/Factorization Loss : 0.14998198975558563 , epoch 25
+training/MSE : 0.7409394298509885 , epoch 25
+training/Joint Loss : 0.15589156524548609 , epoch 25
+eval/Mean Reciprocal Rank : 0.09411414740198482 , epoch 25
+eval/MSE : 0.8404049873352051 , epoch 25
+training/Factorization Loss : 0.1478740903799252 , epoch 26
+training/MSE : 0.7397557163751254 , epoch 26
+training/Joint Loss : 0.1537929079745726 , epoch 26
+eval/Mean Reciprocal Rank : 0.09418033704508333 , epoch 26
+eval/MSE : 0.840706467628479 , epoch 26
+training/Factorization Loss : 0.14721233487850235 , epoch 27
+training/MSE : 0.7367296143565126 , epoch 27
+training/Joint Loss : 0.15310750873659246 , epoch 27
+eval/Mean Reciprocal Rank : 0.09548427545287216 , epoch 27
+eval/MSE : 0.8426918983459473 , epoch 27
+training/Factorization Loss : 0.14476056300824688 , epoch 28
+training/MSE : 0.733718474706014 , epoch 28
+training/Joint Loss : 0.15065014366340893 , epoch 28
+eval/Mean Reciprocal Rank : 0.09441808131571516 , epoch 28
+eval/MSE : 0.8518615365028381 , epoch 28
+training/Factorization Loss : 0.1450420724207996 , epoch 29
+training/MSE : 0.731241819038186 , epoch 29
+training/Joint Loss : 0.15090407098653497 , epoch 29
+eval/Mean Reciprocal Rank : 0.09402323791380268 , epoch 29
+eval/MSE : 0.8419240117073059 , epoch 29
+training/Factorization Loss : 0.14317589241170114 , epoch 30
+training/MSE : 0.7275523322243844 , epoch 30
+training/Joint Loss : 0.14901965768426978 , epoch 30
+eval/Mean Reciprocal Rank : 0.09380929526106657 , epoch 30
+eval/MSE : 0.8412425518035889 , epoch 30
+training/Factorization Loss : 0.14280393889914916 , epoch 31
+training/MSE : 0.726743666875747 , epoch 31
+training/Joint Loss : 0.14864333731032187 , epoch 31
+eval/Mean Reciprocal Rank : 0.09367596742723171 , epoch 31
+eval/MSE : 0.8426505923271179 , epoch 31
+training/Factorization Loss : 0.14272520905460723 , epoch 32
+training/MSE : 0.7232434348233284 , epoch 32
+training/Joint Loss : 0.1485303926371759 , epoch 32
+eval/Mean Reciprocal Rank : 0.09513651497351419 , epoch 32
+eval/MSE : 0.8400498032569885 , epoch 32
+training/Factorization Loss : 0.14157409767710394 , epoch 33
+training/MSE : 0.7226466236896413 , epoch 33
+training/Joint Loss : 0.14738482387075502 , epoch 33
+eval/Mean Reciprocal Rank : 0.09618866188594238 , epoch 33
+eval/MSE : 0.8422120213508606 , epoch 33
+training/Factorization Loss : 0.14088739546877083 , epoch 34
+training/MSE : 0.722132555739854 , epoch 34
+training/Joint Loss : 0.14669984787382107 , epoch 34
+eval/Mean Reciprocal Rank : 0.09806123119527656 , epoch 34
+eval/MSE : 0.8441392779350281 , epoch 34
+training/Factorization Loss : 0.14114772179915058 , epoch 35
+training/MSE : 0.7175963926379398 , epoch 35
+training/Joint Loss : 0.1469122101702998 , epoch 35
+eval/Mean Reciprocal Rank : 0.09772278085253279 , epoch 35
+eval/MSE : 0.8415461778640747 , epoch 35
+training/Factorization Loss : 0.14074253859699412 , epoch 36
+training/MSE : 0.7148285400002233 , epoch 36
+training/Joint Loss : 0.1464833994946813 , epoch 36
+eval/Mean Reciprocal Rank : 0.09631101945054506 , epoch 36
+eval/MSE : 0.8430609107017517 , epoch 36
+training/Factorization Loss : 0.14098160431510018 , epoch 37
+training/MSE : 0.7118948984851119 , epoch 37
+training/Joint Loss : 0.1466907381170219 , epoch 37
+eval/Mean Reciprocal Rank : 0.09632637197136053 , epoch 37
+eval/MSE : 0.8400065302848816 , epoch 37
+training/Factorization Loss : 0.1399573380382912 , epoch 38
+training/MSE : 0.7103115143955395 , epoch 38
+training/Joint Loss : 0.145660880567526 , epoch 38
+eval/Mean Reciprocal Rank : 0.09577574416350924 , epoch 38
+eval/MSE : 0.8412228226661682 , epoch 38
+training/Factorization Loss : 0.13812509082978772 , epoch 39
+training/MSE : 0.7100840560210648 , epoch 39
+training/Joint Loss : 0.14384468178194698 , epoch 39
+eval/Mean Reciprocal Rank : 0.09751498020592587 , epoch 39
+eval/MSE : 0.8427703976631165 , epoch 39
+training/Factorization Loss : 0.1385102565250089 , epoch 40
+training/MSE : 0.7065158744332611 , epoch 40
+training/Joint Loss : 0.1441903141357245 , epoch 40
+eval/Mean Reciprocal Rank : 0.0996781610403093 , epoch 40
+eval/MSE : 0.8382155299186707 , epoch 40
+training/Factorization Loss : 0.13665963891613228 , epoch 41
+training/MSE : 0.7027097986910933 , epoch 41
+training/Joint Loss : 0.1423201412763647 , epoch 41
+eval/Mean Reciprocal Rank : 0.09762479337921681 , epoch 41
+eval/MSE : 0.8317921161651611 , epoch 41
+training/Factorization Loss : 0.13656633305213145 , epoch 42
+training/MSE : 0.6999972376131243 , epoch 42
+training/Joint Loss : 0.1422006430565029 , epoch 42
+eval/Mean Reciprocal Rank : 0.09721906626210397 , epoch 42
+eval/MSE : 0.8320388793945312 , epoch 42
+training/Factorization Loss : 0.13706683051041377 , epoch 43
+training/MSE : 0.6974368281261896 , epoch 43
+training/Joint Loss : 0.14267053166704793 , epoch 43
+eval/Mean Reciprocal Rank : 0.09675527879999304 , epoch 43
+eval/MSE : 0.8317165970802307 , epoch 43
+training/Factorization Loss : 0.1364285522290776 , epoch 44
+training/MSE : 0.6947578180541274 , epoch 44
+training/Joint Loss : 0.1420118460251439 , epoch 44
+eval/Mean Reciprocal Rank : 0.0972654694406396 , epoch 44
+eval/MSE : 0.8344395756721497 , epoch 44
+training/Factorization Loss : 0.1356333109640306 , epoch 45
+training/MSE : 0.693281915799905 , epoch 45
+training/Joint Loss : 0.1412097982140959 , epoch 45
+eval/Mean Reciprocal Rank : 0.09887228934417737 , epoch 45
+eval/MSE : 0.8390242457389832 , epoch 45
+training/Factorization Loss : 0.13527808326386637 , epoch 46
+training/MSE : 0.6904190533584164 , epoch 46
+training/Joint Loss : 0.14082949418294174 , epoch 46
+eval/Mean Reciprocal Rank : 0.0982444006400573 , epoch 46
+eval/MSE : 0.8384018540382385 , epoch 46
+training/Factorization Loss : 0.13612502270568444 , epoch 47
+training/MSE : 0.6880087830046172 , epoch 47
+training/Joint Loss : 0.14164386132872234 , epoch 47
+eval/Mean Reciprocal Rank : 0.09740030452847323 , epoch 47
+eval/MSE : 0.83614182472229 , epoch 47
+training/Factorization Loss : 0.13382215399335148 , epoch 48
+training/MSE : 0.6853306354374014 , epoch 48
+training/Joint Loss : 0.1393372397268972 , epoch 48
+eval/Mean Reciprocal Rank : 0.09945021794875629 , epoch 48
+eval/MSE : 0.8398902416229248 , epoch 48
+training/Factorization Loss : 0.13438882464442842 , epoch 49
+training/MSE : 0.6817465334009098 , epoch 49
+training/Joint Loss : 0.13986240281292828 , epoch 49
+eval/Mean Reciprocal Rank : 0.10020383971096669 , epoch 49
+eval/MSE : 0.8395267724990845 , epoch 49
+training/Factorization Loss : 0.13296591109966718 , epoch 50
+training/MSE : 0.6796871721744537 , epoch 50
+training/Joint Loss : 0.13843312505031785 , epoch 50
+eval/Mean Reciprocal Rank : 0.10112308306684183 , epoch 50
+eval/MSE : 0.844062089920044 , epoch 50
+training/Factorization Loss : 0.13252811828848496 , epoch 51
+training/MSE : 0.6790240995025122 , epoch 51
+training/Joint Loss : 0.13799307913950054 , epoch 51
+eval/Mean Reciprocal Rank : 0.09969414507963181 , epoch 51
+eval/MSE : 0.8389442563056946 , epoch 51
+training/Factorization Loss : 0.13237778355758037 , epoch 52
+training/MSE : 0.6774243059498007 , epoch 52
+training/Joint Loss : 0.1378282495644144 , epoch 52
+eval/Mean Reciprocal Rank : 0.10104522113470242 , epoch 52
+eval/MSE : 0.8418816328048706 , epoch 52
+training/Factorization Loss : 0.1326389499140092 , epoch 53
+training/MSE : 0.6740252965240068 , epoch 53
+training/Joint Loss : 0.1380528145099199 , epoch 53
+eval/Mean Reciprocal Rank : 0.1018673839544129 , epoch 53
+eval/MSE : 0.8436455130577087 , epoch 53
+training/Factorization Loss : 0.13088700231364978 , epoch 54
+training/MSE : 0.6713256819914746 , epoch 54
+training/Joint Loss : 0.1362913905652941 , epoch 54
+eval/Mean Reciprocal Rank : 0.10474885079333944 , epoch 54
+eval/MSE : 0.839118242263794 , epoch 54
+training/Factorization Loss : 0.1304145570724241 , epoch 55
+training/MSE : 0.6716596690877792 , epoch 55
+training/Joint Loss : 0.1358270092957443 , epoch 55
+eval/Mean Reciprocal Rank : 0.10495447098324326 , epoch 55
+eval/MSE : 0.8386237025260925 , epoch 55
+training/Factorization Loss : 0.12864546281515912 , epoch 56
+training/MSE : 0.6684212876904395 , epoch 56
+training/Joint Loss : 0.13404322217308706 , epoch 56
+eval/Mean Reciprocal Rank : 0.104893764556868 , epoch 56
+eval/MSE : 0.8407193422317505 , epoch 56
+training/Factorization Loss : 0.13077936477718816 , epoch 57
+training/MSE : 0.6648317143641492 , epoch 57
+training/Joint Loss : 0.13611988905536873 , epoch 57
+eval/Mean Reciprocal Rank : 0.1047317027485871 , epoch 57
+eval/MSE : 0.8371667265892029 , epoch 57
+training/Factorization Loss : 0.12883018455918757 , epoch 58
+training/MSE : 0.6646950631051936 , epoch 58
+training/Joint Loss : 0.13418883437751442 , epoch 58
+eval/Mean Reciprocal Rank : 0.10298642730762761 , epoch 58
+eval/MSE : 0.8460391759872437 , epoch 58
+training/Factorization Loss : 0.13001275695459816 , epoch 59
+training/MSE : 0.6616103164451097 , epoch 59
+training/Joint Loss : 0.1353287339330681 , epoch 59
+eval/Mean Reciprocal Rank : 0.10376335882504945 , epoch 59
+eval/MSE : 0.8423571586608887 , epoch 59
+training/Factorization Loss : 0.12798734355757954 , epoch 60
+training/MSE : 0.660132885700272 , epoch 60
+training/Joint Loss : 0.13330879955682703 , epoch 60
+eval/Mean Reciprocal Rank : 0.10634240799041217 , epoch 60
+eval/MSE : 0.8445980548858643 , epoch 60
+training/Factorization Loss : 0.12881540418953025 , epoch 61
+training/MSE : 0.6581678812702497 , epoch 61
+training/Joint Loss : 0.134108930005021 , epoch 61
+eval/Mean Reciprocal Rank : 0.10632108504633611 , epoch 61
+eval/MSE : 0.848520815372467 , epoch 61
+training/Factorization Loss : 0.12676741609409933 , epoch 62
+training/MSE : 0.6558738804312163 , epoch 62
+training/Joint Loss : 0.1320584815756608 , epoch 62
+eval/Mean Reciprocal Rank : 0.10618978029019994 , epoch 62
+eval/MSE : 0.8511982560157776 , epoch 62
+training/Factorization Loss : 0.12662700936198235 , epoch 63
+training/MSE : 0.655473510103841 , epoch 63
+training/Joint Loss : 0.13191547533196787 , epoch 63
+eval/Mean Reciprocal Rank : 0.10681742899168532 , epoch 63
+eval/MSE : 0.8494958877563477 , epoch 63
+training/Factorization Loss : 0.1281175452374643 , epoch 64
+training/MSE : 0.6529730868435675 , epoch 64
+training/Joint Loss : 0.13336610147148692 , epoch 64
+eval/Mean Reciprocal Rank : 0.10689778325115361 , epoch 64
+eval/MSE : 0.8479313254356384 , epoch 64
+training/Factorization Loss : 0.12609749976345289 , epoch 65
+training/MSE : 0.6516450649948531 , epoch 65
+training/Joint Loss : 0.131352976725627 , epoch 65
+eval/Mean Reciprocal Rank : 0.10682199032469657 , epoch 65
+eval/MSE : 0.845640242099762 , epoch 65
+training/Factorization Loss : 0.12675384075571133 , epoch 66
+training/MSE : 0.6483274196745247 , epoch 66
+training/Joint Loss : 0.1319695775627449 , epoch 66
+eval/Mean Reciprocal Rank : 0.10822513839899459 , epoch 66
+eval/MSE : 0.8484105467796326 , epoch 66
+training/Factorization Loss : 0.1239604904286323 , epoch 67
+training/MSE : 0.6465595850861201 , epoch 67
+training/Joint Loss : 0.1291864819984923 , epoch 67
+eval/Mean Reciprocal Rank : 0.1070865530728515 , epoch 67
+eval/MSE : 0.8610284924507141 , epoch 67
+training/Factorization Loss : 0.12557823937987128 , epoch 68
+training/MSE : 0.6447894294415751 , epoch 68
+training/Joint Loss : 0.13077035233859094 , epoch 68
+eval/Mean Reciprocal Rank : 0.10972927856844764 , epoch 68
+eval/MSE : 0.8555787205696106 , epoch 68
+training/Factorization Loss : 0.12364558072420218 , epoch 69
+training/MSE : 0.6429447638251449 , epoch 69
+training/Joint Loss : 0.12883857331208645 , epoch 69
+eval/Mean Reciprocal Rank : 0.10773894371637806 , epoch 69
+eval/MSE : 0.8525185585021973 , epoch 69
+training/Factorization Loss : 0.12401989835404581 , epoch 70
+training/MSE : 0.6422525019414963 , epoch 70
+training/Joint Loss : 0.1292022253156349 , epoch 70
+eval/Mean Reciprocal Rank : 0.10844163218880139 , epoch 70
+eval/MSE : 0.8542665243148804 , epoch 70
+training/Factorization Loss : 0.12405018394272174 , epoch 71
+training/MSE : 0.6398861348148315 , epoch 71
+training/Joint Loss : 0.1292085440088344 , epoch 71
+eval/Mean Reciprocal Rank : 0.10794918836326758 , epoch 71
+eval/MSE : 0.8586207032203674 , epoch 71
+training/Factorization Loss : 0.12193582711681243 , epoch 72
+training/MSE : 0.6393231621352575 , epoch 72
+training/Joint Loss : 0.1271097014347712 , epoch 72
+eval/Mean Reciprocal Rank : 0.10989133324766627 , epoch 72
+eval/MSE : 0.8626025319099426 , epoch 72
+training/Factorization Loss : 0.12186500285902331 , epoch 73
+training/MSE : 0.6377861392433926 , epoch 73
+training/Joint Loss : 0.12702421495510685 , epoch 73
+eval/Mean Reciprocal Rank : 0.11006561504349231 , epoch 73
+eval/MSE : 0.860678493976593 , epoch 73
+training/Factorization Loss : 0.12409954463001541 , epoch 74
+training/MSE : 0.6357889040823905 , epoch 74
+training/Joint Loss : 0.1292164398317215 , epoch 74
+eval/Mean Reciprocal Rank : 0.11025702597336251 , epoch 74
+eval/MSE : 0.873112678527832 , epoch 74
+training/Factorization Loss : 0.12156646035771856 , epoch 75
+training/MSE : 0.6330139374220243 , epoch 75
+training/Joint Loss : 0.1266809358231483 , epoch 75
+eval/Mean Reciprocal Rank : 0.11189673518104104 , epoch 75
+eval/MSE : 0.8675727248191833 , epoch 75
+training/Factorization Loss : 0.1210861661902038 , epoch 76
+training/MSE : 0.632035377926083 , epoch 76
+training/Joint Loss : 0.12619565918000156 , epoch 76
+eval/Mean Reciprocal Rank : 0.11158119020100139 , epoch 76
+eval/MSE : 0.8688161373138428 , epoch 76
+training/Factorization Loss : 0.1198508171865376 , epoch 77
+training/MSE : 0.631743580984172 , epoch 77
+training/Joint Loss : 0.12496974581592185 , epoch 77
+eval/Mean Reciprocal Rank : 0.1109374257240204 , epoch 77
+eval/MSE : 0.8672116994857788 , epoch 77
+training/Factorization Loss : 0.12110970054142257 , epoch 78
+training/MSE : 0.6293285170229532 , epoch 78
+training/Joint Loss : 0.12619188956675992 , epoch 78
+eval/Mean Reciprocal Rank : 0.11186282854828923 , epoch 78
+eval/MSE : 0.8667289018630981 , epoch 78
+training/Factorization Loss : 0.12103809201989764 , epoch 79
+training/MSE : 0.6274511416753134 , epoch 79
+training/Joint Loss : 0.12610222341152288 , epoch 79
+eval/Mean Reciprocal Rank : 0.11271125037007222 , epoch 79
+eval/MSE : 0.8687028288841248 , epoch 79
+training/Factorization Loss : 0.11767676825164466 , epoch 80
+training/MSE : 0.6266849018553252 , epoch 80
+training/Joint Loss : 0.12276685019574499 , epoch 80
+eval/Mean Reciprocal Rank : 0.11174928585172549 , epoch 80
+eval/MSE : 0.8692273497581482 , epoch 80
+training/Factorization Loss : 0.1201507682882009 , epoch 81
+training/MSE : 0.6251210450965871 , epoch 81
+training/Joint Loss : 0.12520047155038644 , epoch 81
+eval/Mean Reciprocal Rank : 0.11260334286004667 , epoch 81
+eval/MSE : 0.8728953003883362 , epoch 81
+training/Factorization Loss : 0.11894349397350383 , epoch 82
+training/MSE : 0.6234407033971561 , epoch 82
+training/Joint Loss : 0.123988467098404 , epoch 82
+eval/Mean Reciprocal Rank : 0.11384690042720039 , epoch 82
+eval/MSE : 0.8763404488563538 , epoch 82
+training/Factorization Loss : 0.11913446859726982 , epoch 83
+training/MSE : 0.6219620682219024 , epoch 83
+training/Joint Loss : 0.12416274537162114 , epoch 83
+eval/Mean Reciprocal Rank : 0.11420087657557856 , epoch 83
+eval/MSE : 0.8730644583702087 , epoch 83
+training/Factorization Loss : 0.11950362002306808 , epoch 84
+training/MSE : 0.6192758069724165 , epoch 84
+training/Joint Loss : 0.12450134268491178 , epoch 84
+eval/Mean Reciprocal Rank : 0.11574110163576494 , epoch 84
+eval/MSE : 0.8695738315582275 , epoch 84
+training/Factorization Loss : 0.11742131267824481 , epoch 85
+training/MSE : 0.6190377223075078 , epoch 85
+training/Joint Loss : 0.12243747713184484 , epoch 85
+eval/Mean Reciprocal Rank : 0.11623734107929147 , epoch 85
+eval/MSE : 0.8741382956504822 , epoch 85
+training/Factorization Loss : 0.11919178759619113 , epoch 86
+training/MSE : 0.6172991995849917 , epoch 86
+training/Joint Loss : 0.1241728624789625 , epoch 86
+eval/Mean Reciprocal Rank : 0.11583025331316307 , epoch 86
+eval/MSE : 0.8725406527519226 , epoch 86
+training/Factorization Loss : 0.1168953090986257 , epoch 87
+training/MSE : 0.6177927639375451 , epoch 87
+training/Joint Loss : 0.12190428474337182 , epoch 87
+eval/Mean Reciprocal Rank : 0.11651947623939014 , epoch 87
+eval/MSE : 0.8699775338172913 , epoch 87
+training/Factorization Loss : 0.11638208190279623 , epoch 88
+training/MSE : 0.6157946262949257 , epoch 88
+training/Joint Loss : 0.1213762082600145 , epoch 88
+eval/Mean Reciprocal Rank : 0.1166690723947695 , epoch 88
+eval/MSE : 0.8746440410614014 , epoch 88
+training/Factorization Loss : 0.11603504696720711 , epoch 89
+training/MSE : 0.6132017890772512 , epoch 89
+training/Joint Loss : 0.12100671561214552 , epoch 89
+eval/Mean Reciprocal Rank : 0.11804111755112134 , epoch 89
+eval/MSE : 0.872805655002594 , epoch 89
+training/Factorization Loss : 0.11713222963034466 , epoch 90
+training/MSE : 0.6117886312065586 , epoch 90
+training/Joint Loss : 0.1220787948458105 , epoch 90
+eval/Mean Reciprocal Rank : 0.11732624348836555 , epoch 90
+eval/MSE : 0.8749337792396545 , epoch 90
+training/Factorization Loss : 0.11507497722863831 , epoch 91
+training/MSE : 0.6111627254755266 , epoch 91
+training/Joint Loss : 0.12003585555019879 , epoch 91
+eval/Mean Reciprocal Rank : 0.11796480906830319 , epoch 91
+eval/MSE : 0.8795225620269775 , epoch 91
+training/Factorization Loss : 0.1161452059644044 , epoch 92
+training/MSE : 0.6093141606418035 , epoch 92
+training/Joint Loss : 0.12107689641616358 , epoch 92
+eval/Mean Reciprocal Rank : 0.11887361225884427 , epoch 92
+eval/MSE : 0.8864778280258179 , epoch 92
+training/Factorization Loss : 0.11556864511822501 , epoch 93
+training/MSE : 0.6085627417090118 , epoch 93
+training/Joint Loss : 0.12049858720712764 , epoch 93
+eval/Mean Reciprocal Rank : 0.11809669103712626 , epoch 93
+eval/MSE : 0.886496901512146 , epoch 93
+training/Factorization Loss : 0.11374852071285889 , epoch 94
+training/MSE : 0.6083258269454843 , epoch 94
+training/Joint Loss : 0.1186942945845345 , epoch 94
+eval/Mean Reciprocal Rank : 0.11784680424218329 , epoch 94
+eval/MSE : 0.8803722858428955 , epoch 94
+training/Factorization Loss : 0.11548622485290291 , epoch 95
+training/MSE : 0.607279350200007 , epoch 95
+training/Joint Loss : 0.12040415736696412 , epoch 95
+eval/Mean Reciprocal Rank : 0.11721738069587725 , epoch 95
+eval/MSE : 0.8815968632698059 , epoch 95
+training/Factorization Loss : 0.11383379518144554 , epoch 96
+training/MSE : 0.6055394249257221 , epoch 96
+training/Joint Loss : 0.11875085236244304 , epoch 96
+eval/Mean Reciprocal Rank : 0.11706656757249768 , epoch 96
+eval/MSE : 0.8843650221824646 , epoch 96
+training/Factorization Loss : 0.11485489651120158 , epoch 97
+training/MSE : 0.6031905419884189 , epoch 97
+training/Joint Loss : 0.11973825357453798 , epoch 97
+eval/Mean Reciprocal Rank : 0.11875781501380697 , epoch 97
+eval/MSE : 0.8802826404571533 , epoch 97
+training/Factorization Loss : 0.11321095773769964 , epoch 98
+training/MSE : 0.6025568818853747 , epoch 98
+training/Joint Loss : 0.118104417858425 , epoch 98
+eval/Mean Reciprocal Rank : 0.12004684639430369 , epoch 98
+eval/MSE : 0.8841599822044373 , epoch 98
+training/Factorization Loss : 0.11330953350551026 , epoch 99
+training/MSE : 0.6001060541759256 , epoch 99
+training/Joint Loss : 0.11817749962210655 , epoch 99
+eval/Mean Reciprocal Rank : 0.12101110042524757 , epoch 99
+eval/MSE : 0.8850952982902527 , epoch 99
+training/Factorization Loss : 0.11435567449417806 , epoch 100
+training/MSE : 0.5992949878977191 , epoch 100
+training/Joint Loss : 0.11920506841633269 , epoch 100
+eval/Mean Reciprocal Rank : 0.12075931997111279 , epoch 100
+eval/MSE : 0.8832142353057861 , epoch 100
+training/Factorization Loss : 0.11472323863336475 , epoch 101
+training/MSE : 0.5991785936458136 , epoch 101
+training/Joint Loss : 0.11956779326322259 , epoch 101
+eval/Mean Reciprocal Rank : 0.12085718482525115 , epoch 101
+eval/MSE : 0.8899156451225281 , epoch 101
+training/Factorization Loss : 0.11365280378489725 , epoch 102
+training/MSE : 0.5989948689777363 , epoch 102
+training/Joint Loss : 0.11850622536674622 , epoch 102
+eval/Mean Reciprocal Rank : 0.12012376804564139 , epoch 102
+eval/MSE : 0.8781796097755432 , epoch 102
+training/Factorization Loss : 0.11332760204470926 , epoch 103
+training/MSE : 0.5981272990985583 , epoch 103
+training/Joint Loss : 0.11817559990431031 , epoch 103
+eval/Mean Reciprocal Rank : 0.12062916413290015 , epoch 103
+eval/MSE : 0.8911918997764587 , epoch 103
+training/Factorization Loss : 0.11249021508841105 , epoch 104
+training/MSE : 0.5961600207192923 , epoch 104
+training/Joint Loss : 0.11732691368188268 , epoch 104
+eval/Mean Reciprocal Rank : 0.12170046594678376 , epoch 104
+eval/MSE : 0.8916341662406921 , epoch 104
+training/Factorization Loss : 0.11174636185970357 , epoch 105
+training/MSE : 0.5953616245940168 , epoch 105
+training/Joint Loss : 0.11658251561945485 , epoch 105
+eval/Mean Reciprocal Rank : 0.12195082267084861 , epoch 105
+eval/MSE : 0.888368546962738 , epoch 105
+training/Factorization Loss : 0.11179262156327886 , epoch 106
+training/MSE : 0.5938868469768955 , epoch 106
+training/Joint Loss : 0.11661356508291217 , epoch 106
+eval/Mean Reciprocal Rank : 0.1205897968725794 , epoch 106
+eval/MSE : 0.8905357718467712 , epoch 106
+training/Factorization Loss : 0.11095918394545073 , epoch 107
+training/MSE : 0.5945443617560531 , epoch 107
+training/Joint Loss : 0.11579503651748421 , epoch 107
+eval/Mean Reciprocal Rank : 0.12102974897329671 , epoch 107
+eval/MSE : 0.8959408402442932 , epoch 107
+training/Factorization Loss : 0.11161598615268226 , epoch 108
+training/MSE : 0.5917115899664099 , epoch 108
+training/Joint Loss : 0.11641694288901104 , epoch 108
+eval/Mean Reciprocal Rank : 0.12285836682122184 , epoch 108
+eval/MSE : 0.8903914093971252 , epoch 108
+training/Factorization Loss : 0.1126183985422055 , epoch 109
+training/MSE : 0.5917196264991196 , epoch 109
+training/Joint Loss : 0.1174094118278033 , epoch 109
+eval/Mean Reciprocal Rank : 0.12351035094309847 , epoch 109
+eval/MSE : 0.8937732577323914 , epoch 109
+training/Factorization Loss : 0.1117535894436221 , epoch 110
+training/MSE : 0.5908729489291867 , epoch 110
+training/Joint Loss : 0.11654478359606958 , epoch 110
+eval/Mean Reciprocal Rank : 0.12525585744143292 , epoch 110
+eval/MSE : 0.9014167785644531 , epoch 110
+training/Factorization Loss : 0.11157000297179787 , epoch 111
+training/MSE : 0.5904154261594178 , epoch 111
+training/Joint Loss : 0.1163584583348805 , epoch 111
+eval/Mean Reciprocal Rank : 0.12411574417176865 , epoch 111
+eval/MSE : 0.9030532240867615 , epoch 111
+training/Factorization Loss : 0.11059802121693088 , epoch 112
+training/MSE : 0.5883005160477853 , epoch 112
+training/Joint Loss : 0.11537504730926405 , epoch 112
+eval/Mean Reciprocal Rank : 0.12461579849016127 , epoch 112
+eval/MSE : 0.9004201292991638 , epoch 112
+training/Factorization Loss : 0.1118761757388711 , epoch 113
+training/MSE : 0.5873758606212114 , epoch 113
+training/Joint Loss : 0.1166311735487593 , epoch 113
+eval/Mean Reciprocal Rank : 0.12691119711166032 , epoch 113
+eval/MSE : 0.900320291519165 , epoch 113
+training/Factorization Loss : 0.10926916462279135 , epoch 114
+training/MSE : 0.5866377449003599 , epoch 114
+training/Joint Loss : 0.11404285083214442 , epoch 114
+eval/Mean Reciprocal Rank : 0.1264414045062074 , epoch 114
+eval/MSE : 0.9078884720802307 , epoch 114
+training/Factorization Loss : 0.11017446476285175 , epoch 115
+training/MSE : 0.5864261621909757 , epoch 115
+training/Joint Loss : 0.11493698261197537 , epoch 115
+eval/Mean Reciprocal Rank : 0.1239766691151259 , epoch 115
+eval/MSE : 0.9016842842102051 , epoch 115
+training/Factorization Loss : 0.11100258057316144 , epoch 116
+training/MSE : 0.5858501188697354 , epoch 116
+training/Joint Loss : 0.11575105678169959 , epoch 116
+eval/Mean Reciprocal Rank : 0.12383327936553468 , epoch 116
+eval/MSE : 0.9086558818817139 , epoch 116
+training/Factorization Loss : 0.10881118394274225 , epoch 117
+training/MSE : 0.5842093494470402 , epoch 117
+training/Joint Loss : 0.11356516691145077 , epoch 117
+eval/Mean Reciprocal Rank : 0.12515851945127301 , epoch 117
+eval/MSE : 0.9156897664070129 , epoch 117
+training/Factorization Loss : 0.10925731012817994 , epoch 118
+training/MSE : 0.5835742620370721 , epoch 118
+training/Joint Loss : 0.11400048034165496 , epoch 118
+eval/Mean Reciprocal Rank : 0.1251173431701742 , epoch 118
+eval/MSE : 0.9135154485702515 , epoch 118
+training/Factorization Loss : 0.10805232376260783 , epoch 119
+training/MSE : 0.5824582864360143 , epoch 119
+training/Joint Loss : 0.11279638416023664 , epoch 119
+eval/Mean Reciprocal Rank : 0.12682848129566165 , epoch 119
+eval/MSE : 0.9109163880348206 , epoch 119
+training/Factorization Loss : 0.10894918853356954 , epoch 120
+training/MSE : 0.5821253410590592 , epoch 120
+training/Joint Loss : 0.11368095072647257 , epoch 120
+eval/Mean Reciprocal Rank : 0.12623304676709174 , epoch 120
+eval/MSE : 0.920245885848999 , epoch 120
+training/Factorization Loss : 0.10734560440785142 , epoch 121
+training/MSE : 0.5823728882817811 , epoch 121
+training/Joint Loss : 0.1120958779888448 , epoch 121
+eval/Mean Reciprocal Rank : 0.12648751113784432 , epoch 121
+eval/MSE : 0.9126458168029785 , epoch 121
+training/Factorization Loss : 0.10851769307528132 , epoch 122
+training/MSE : 0.5801657996671175 , epoch 122
+training/Joint Loss : 0.11323417512880217 , epoch 122
+eval/Mean Reciprocal Rank : 0.12619068768485026 , epoch 122
+eval/MSE : 0.9215791821479797 , epoch 122
+training/Factorization Loss : 0.10782313543141529 , epoch 123
+training/MSE : 0.5807447401426171 , epoch 123
+training/Joint Loss : 0.11255235230970767 , epoch 123
+eval/Mean Reciprocal Rank : 0.12832814428270548 , epoch 123
+eval/MSE : 0.9097525477409363 , epoch 123
+training/Factorization Loss : 0.10809737464953814 , epoch 124
+training/MSE : 0.579004795801255 , epoch 124
+training/Joint Loss : 0.11280644978446666 , epoch 124
+eval/Mean Reciprocal Rank : 0.1287977655012519 , epoch 124
+eval/MSE : 0.9233527183532715 , epoch 124
+training/Factorization Loss : 0.10705128095803722 , epoch 125
+training/MSE : 0.5787023309898632 , epoch 125
+training/Joint Loss : 0.11176779244335429 , epoch 125
+eval/Mean Reciprocal Rank : 0.129368456570192 , epoch 125
+eval/MSE : 0.911637008190155 , epoch 125
+training/Factorization Loss : 0.10722330267671296 , epoch 126
+training/MSE : 0.5778766596509565 , epoch 126
+training/Joint Loss : 0.1119298370635157 , epoch 126
+eval/Mean Reciprocal Rank : 0.1283044547034093 , epoch 126
+eval/MSE : 0.9158094525337219 , epoch 126
+training/Factorization Loss : 0.10718667897726258 , epoch 127
+training/MSE : 0.5782583819762352 , epoch 127
+training/Joint Loss : 0.11189739692515584 , epoch 127
+eval/Mean Reciprocal Rank : 0.12923459353015043 , epoch 127
+eval/MSE : 0.9172545075416565 , epoch 127
+training/Factorization Loss : 0.10740055913926773 , epoch 128
+training/MSE : 0.5775196217401053 , epoch 128
+training/Joint Loss : 0.11210175052845991 , epoch 128
+eval/Mean Reciprocal Rank : 0.1298619104340102 , epoch 128
+eval/MSE : 0.9210118055343628 , epoch 128
+training/Factorization Loss : 0.10831318132739554 , epoch 129
+training/MSE : 0.5762608157851363 , epoch 129
+training/Joint Loss : 0.11299265883061835 , epoch 129
+eval/Mean Reciprocal Rank : 0.13060108349478763 , epoch 129
+eval/MSE : 0.9236745834350586 , epoch 129
+training/Factorization Loss : 0.10733435573356767 , epoch 130
+training/MSE : 0.5753787440317933 , epoch 130
+training/Joint Loss : 0.1120148005504762 , epoch 130
+eval/Mean Reciprocal Rank : 0.12884358536192425 , epoch 130
+eval/MSE : 0.9195536375045776 , epoch 130
+training/Factorization Loss : 0.10743768398039123 , epoch 131
+training/MSE : 0.5755821017808812 , epoch 131
+training/Joint Loss : 0.11211912923802932 , epoch 131
+eval/Mean Reciprocal Rank : 0.12873902012640295 , epoch 131
+eval/MSE : 0.923376739025116 , epoch 131
+training/Factorization Loss : 0.10622237940188697 , epoch 132
+training/MSE : 0.5740314198117102 , epoch 132
+training/Joint Loss : 0.1109004705062797 , epoch 132
+eval/Mean Reciprocal Rank : 0.12939397423709206 , epoch 132
+eval/MSE : 0.9214370846748352 , epoch 132
+training/Factorization Loss : 0.10696790444474387 , epoch 133
+training/MSE : 0.576507173959286 , epoch 133
+training/Joint Loss : 0.1116632980805251 , epoch 133
+eval/Mean Reciprocal Rank : 0.12821576053656997 , epoch 133
+eval/MSE : 0.9202929735183716 , epoch 133
+training/Factorization Loss : 0.10676118018486166 , epoch 134
+training/MSE : 0.5736622408192645 , epoch 134
+training/Joint Loss : 0.11143019142490561 , epoch 134
+eval/Mean Reciprocal Rank : 0.12902162512876103 , epoch 134
+eval/MSE : 0.9256406426429749 , epoch 134
+training/Factorization Loss : 0.10436243001091224 , epoch 135
+training/MSE : 0.5723838314253796 , epoch 135
+training/Joint Loss : 0.10904264484121594 , epoch 135
+eval/Mean Reciprocal Rank : 0.129493617362417 , epoch 135
+eval/MSE : 0.9251488447189331 , epoch 135
+training/Factorization Loss : 0.10523273606574343 , epoch 136
+training/MSE : 0.5717144229559488 , epoch 136
+training/Joint Loss : 0.10989755378054675 , epoch 136
+eval/Mean Reciprocal Rank : 0.1299703503531092 , epoch 136
+eval/MSE : 0.9193875789642334 , epoch 136
+training/Factorization Loss : 0.1052712326348629 , epoch 137
+training/MSE : 0.5734336824026159 , epoch 137
+training/Joint Loss : 0.10995285809841207 , epoch 137
+eval/Mean Reciprocal Rank : 0.13066379342480644 , epoch 137
+eval/MSE : 0.9225180745124817 , epoch 137
+training/Factorization Loss : 0.10624171423936082 , epoch 138
+training/MSE : 0.5711639728597415 , epoch 138
+training/Joint Loss : 0.11089093799913122 , epoch 138
+eval/Mean Reciprocal Rank : 0.13098565139628676 , epoch 138
+eval/MSE : 0.9140946269035339 , epoch 138
+training/Factorization Loss : 0.10589314922089538 , epoch 139
+training/MSE : 0.5709464364154364 , epoch 139
+training/Joint Loss : 0.11054368293093096 , epoch 139
+eval/Mean Reciprocal Rank : 0.13078421963611292 , epoch 139
+eval/MSE : 0.9208675622940063 , epoch 139
+training/Factorization Loss : 0.10501766654472518 , epoch 140
+training/MSE : 0.5702568923113167 , epoch 140
+training/Joint Loss : 0.10967005968534498 , epoch 140
+eval/Mean Reciprocal Rank : 0.13052470932553534 , epoch 140
+eval/MSE : 0.9260457158088684 , epoch 140
+training/Factorization Loss : 0.10447184483630843 , epoch 141
+training/MSE : 0.5687730304336035 , epoch 141
+training/Joint Loss : 0.1091148575507505 , epoch 141
+eval/Mean Reciprocal Rank : 0.12986566740244676 , epoch 141
+eval/MSE : 0.9236515760421753 , epoch 141
+training/Factorization Loss : 0.10565648578427812 , epoch 142
+training/MSE : 0.5688352104156248 , epoch 142
+training/Joint Loss : 0.11028827374340386 , epoch 142
+eval/Mean Reciprocal Rank : 0.1308935300352342 , epoch 142
+eval/MSE : 0.9201589822769165 , epoch 142
+training/Factorization Loss : 0.10458832489506852 , epoch 143
+training/MSE : 0.5690094267008126 , epoch 143
+training/Joint Loss : 0.10923253685756716 , epoch 143
+eval/Mean Reciprocal Rank : 0.12924827383641865 , epoch 143
+eval/MSE : 0.9227274656295776 , epoch 143
+training/Factorization Loss : 0.10364684075998362 , epoch 144
+training/MSE : 0.5683434658473537 , epoch 144
+training/Joint Loss : 0.10829380796521261 , epoch 144
+eval/Mean Reciprocal Rank : 0.1302356741980315 , epoch 144
+eval/MSE : 0.9276635646820068 , epoch 144
+training/Factorization Loss : 0.10566979241106779 , epoch 145
+training/MSE : 0.5674292317801907 , epoch 145
+training/Joint Loss : 0.11028738794547896 , epoch 145
+eval/Mean Reciprocal Rank : 0.12981036593507123 , epoch 145
+eval/MSE : 0.9269845485687256 , epoch 145
+training/Factorization Loss : 0.10545468086036303 , epoch 146
+training/MSE : 0.5695884619509021 , epoch 146
+training/Joint Loss : 0.110096019422335 , epoch 146
+eval/Mean Reciprocal Rank : 0.13091372918795324 , epoch 146
+eval/MSE : 0.923325777053833 , epoch 146
+training/Factorization Loss : 0.10244279284711166 , epoch 147
+training/MSE : 0.5674554847421185 , epoch 147
+training/Joint Loss : 0.10709292063068959 , epoch 147
+eval/Mean Reciprocal Rank : 0.1305318243670281 , epoch 147
+eval/MSE : 0.9293525218963623 , epoch 147
+training/Factorization Loss : 0.10245044773785017 , epoch 148
+training/MSE : 0.5675768190494148 , epoch 148
+training/Joint Loss : 0.10710171231579396 , epoch 148
+eval/Mean Reciprocal Rank : 0.13072443081517243 , epoch 148
+eval/MSE : 0.9320644736289978 , epoch 148
+training/Factorization Loss : 0.10171398234062938 , epoch 149
+training/MSE : 0.5669426669677099 , epoch 149
+training/Joint Loss : 0.10636626981118674 , epoch 149
+eval/Mean Reciprocal Rank : 0.13150823984937404 , epoch 149
+eval/MSE : 0.9345146417617798 , epoch 149
+training/Factorization Loss : 0.10208845337832807 , epoch 150
+training/MSE : 0.5663683847073586 , epoch 150
+training/Joint Loss : 0.10673125367611647 , epoch 150
+eval/Mean Reciprocal Rank : 0.13157193628419978 , epoch 150
+eval/MSE : 0.9329362511634827 , epoch 150
+training/Factorization Loss : 0.10306098328162265 , epoch 151
+training/MSE : 0.566299480776633 , epoch 151
+training/Joint Loss : 0.10769336898961375 , epoch 151
+eval/Mean Reciprocal Rank : 0.13257720074941276 , epoch 151
+eval/MSE : 0.9277695417404175 , epoch 151
+training/Factorization Loss : 0.1023084133542994 , epoch 152
+training/MSE : 0.565367884052697 , epoch 152
+training/Joint Loss : 0.10693900883998922 , epoch 152
+eval/Mean Reciprocal Rank : 0.13329207395735573 , epoch 152
+eval/MSE : 0.9349123239517212 , epoch 152
+training/Factorization Loss : 0.10409587088681918 , epoch 153
+training/MSE : 0.5658618972025892 , epoch 153
+training/Joint Loss : 0.10871353215708207 , epoch 153
+eval/Mean Reciprocal Rank : 0.13538342254833685 , epoch 153
+eval/MSE : 0.9244072437286377 , epoch 153
+training/Factorization Loss : 0.10238537946415524 , epoch 154
+training/MSE : 0.5645057701615876 , epoch 154
+training/Joint Loss : 0.10700658440429678 , epoch 154
+eval/Mean Reciprocal Rank : 0.1350987486677053 , epoch 154
+eval/MSE : 0.9350495338439941 , epoch 154
+training/Factorization Loss : 0.10142825674065338 , epoch 155
+training/MSE : 0.5643882123372888 , epoch 155
+training/Joint Loss : 0.10605785701303713 , epoch 155
+eval/Mean Reciprocal Rank : 0.13708621616693725 , epoch 155
+eval/MSE : 0.9321648478507996 , epoch 155
+training/Factorization Loss : 0.10201180488952706 , epoch 156
+training/MSE : 0.5638883856515731 , epoch 156
+training/Joint Loss : 0.10663057126665629 , epoch 156
+eval/Mean Reciprocal Rank : 0.13629847652147922 , epoch 156
+eval/MSE : 0.9258398413658142 , epoch 156
+training/Factorization Loss : 0.10108363521235283 , epoch 157
+training/MSE : 0.5637929584550602 , epoch 157
+training/Joint Loss : 0.10571072919554608 , epoch 157
+eval/Mean Reciprocal Rank : 0.13632432823278215 , epoch 157
+eval/MSE : 0.9341822266578674 , epoch 157
+training/Factorization Loss : 0.10119084060512563 , epoch 158
+training/MSE : 0.5640918264786402 , epoch 158
+training/Joint Loss : 0.10581985122013476 , epoch 158
+eval/Mean Reciprocal Rank : 0.13575219157994756 , epoch 158
+eval/MSE : 0.9253357648849487 , epoch 158
+training/Factorization Loss : 0.102106646394297 , epoch 159
+training/MSE : 0.5637752588397713 , epoch 159
+training/Joint Loss : 0.10672333344857218 , epoch 159
+eval/Mean Reciprocal Rank : 0.1364156199405046 , epoch 159
+eval/MSE : 0.9299111366271973 , epoch 159
+training/Factorization Loss : 0.10155894747504624 , epoch 160
+training/MSE : 0.5639237072519077 , epoch 160
+training/Joint Loss : 0.10618259601535336 , epoch 160
+eval/Mean Reciprocal Rank : 0.1368775962826934 , epoch 160
+eval/MSE : 0.9387014508247375 , epoch 160
+training/Factorization Loss : 0.10134577766181 , epoch 161
+training/MSE : 0.5621894211057694 , epoch 161
+training/Joint Loss : 0.10595421473024993 , epoch 161
+eval/Mean Reciprocal Rank : 0.13887731665141337 , epoch 161
+eval/MSE : 0.9408220648765564 , epoch 161
+training/Factorization Loss : 0.10279620893459807 , epoch 162
+training/MSE : 0.5623402462531162 , epoch 162
+training/Joint Loss : 0.10739165011753318 , epoch 162
+eval/Mean Reciprocal Rank : 0.13734005426062412 , epoch 162
+eval/MSE : 0.9377831816673279 , epoch 162
+training/Factorization Loss : 0.0999347095588042 , epoch 163
+training/MSE : 0.5623369924323534 , epoch 163
+training/Joint Loss : 0.10455873317175335 , epoch 163
+eval/Mean Reciprocal Rank : 0.1367130210507771 , epoch 163
+eval/MSE : 0.9340074062347412 , epoch 163
+training/Factorization Loss : 0.10167503475101404 , epoch 164
+training/MSE : 0.5616656221369262 , epoch 164
+training/Joint Loss : 0.10627494121511136 , epoch 164
+eval/Mean Reciprocal Rank : 0.13702999763471813 , epoch 164
+eval/MSE : 0.9326132535934448 , epoch 164
+training/Factorization Loss : 0.09973606081699492 , epoch 165
+training/MSE : 0.5616003292542632 , epoch 165
+training/Joint Loss : 0.1043547040792883 , epoch 165
+eval/Mean Reciprocal Rank : 0.1375866480785906 , epoch 165
+eval/MSE : 0.9431400299072266 , epoch 165
+training/Factorization Loss : 0.10000513599164063 , epoch 166
+training/MSE : 0.5621191537187945 , epoch 166
+training/Joint Loss : 0.1046262770410507 , epoch 166
+eval/Mean Reciprocal Rank : 0.13822742095759302 , epoch 166
+eval/MSE : 0.9406077265739441 , epoch 166
+training/Factorization Loss : 0.10053985688074302 , epoch 167
+training/MSE : 0.5615211154824944 , epoch 167
+training/Joint Loss : 0.10514967006340784 , epoch 167
+eval/Mean Reciprocal Rank : 0.1385649184620306 , epoch 167
+eval/MSE : 0.9418741464614868 , epoch 167
+training/Factorization Loss : 0.09886044033512634 , epoch 168
+training/MSE : 0.5610535415590451 , epoch 168
+training/Joint Loss : 0.10348237175694718 , epoch 168
+eval/Mean Reciprocal Rank : 0.13736514179741743 , epoch 168
+eval/MSE : 0.9431296586990356 , epoch 168
+training/Factorization Loss : 0.10033431257652019 , epoch 169
+training/MSE : 0.5616723387952773 , epoch 169
+training/Joint Loss : 0.10494769372606791 , epoch 169
+eval/Mean Reciprocal Rank : 0.1379151685383398 , epoch 169
+eval/MSE : 0.9412656426429749 , epoch 169
+training/Factorization Loss : 0.0995570093353269 , epoch 170
+training/MSE : 0.5600411325532902 , epoch 170
+training/Joint Loss : 0.10416185112810263 , epoch 170
+eval/Mean Reciprocal Rank : 0.13595740648340934 , epoch 170
+eval/MSE : 0.9435058832168579 , epoch 170
+training/Factorization Loss : 0.09914155136192998 , epoch 171
+training/MSE : 0.5598906754486023 , epoch 171
+training/Joint Loss : 0.10374904329818423 , epoch 171
+eval/Mean Reciprocal Rank : 0.13688524950578798 , epoch 171
+eval/MSE : 0.9443576335906982 , epoch 171
+training/Factorization Loss : 0.09938433187543064 , epoch 172
+training/MSE : 0.5608066188231591 , epoch 172
+training/Joint Loss : 0.10399855550138219 , epoch 172
+eval/Mean Reciprocal Rank : 0.13646002476304467 , epoch 172
+eval/MSE : 0.9435686469078064 , epoch 172
+training/Factorization Loss : 0.09922788625643138 , epoch 173
+training/MSE : 0.559950737382776 , epoch 173
+training/Joint Loss : 0.10383511561980491 , epoch 173
+eval/Mean Reciprocal Rank : 0.13754656891918784 , epoch 173
+eval/MSE : 0.9352393746376038 , epoch 173
+training/Factorization Loss : 0.09932347098321614 , epoch 174
+training/MSE : 0.5604976153662128 , epoch 174
+training/Joint Loss : 0.10393521319248623 , epoch 174
+eval/Mean Reciprocal Rank : 0.1348881167346032 , epoch 174
+eval/MSE : 0.9378035068511963 , epoch 174
+training/Factorization Loss : 0.09938796450414004 , epoch 175
+training/MSE : 0.561449566916112 , epoch 175
+training/Joint Loss : 0.10400858148932457 , epoch 175
+eval/Mean Reciprocal Rank : 0.13657682434552346 , epoch 175
+eval/MSE : 0.9438115358352661 , epoch 175
+training/Factorization Loss : 0.09934849127806643 , epoch 176
+training/MSE : 0.5603050696112777 , epoch 176
+training/Joint Loss : 0.10395805794064716 , epoch 176
+eval/Mean Reciprocal Rank : 0.13686180743589157 , epoch 176
+eval/MSE : 0.9397635459899902 , epoch 176
+training/Factorization Loss : 0.09928040016162139 , epoch 177
+training/MSE : 0.5595070498604928 , epoch 177
+training/Joint Loss : 0.10388266747837425 , epoch 177
+eval/Mean Reciprocal Rank : 0.1362818505575222 , epoch 177
+eval/MSE : 0.9435461163520813 , epoch 177
+training/Factorization Loss : 0.09804110372218713 , epoch 178
+training/MSE : 0.5601445048727015 , epoch 178
+training/Joint Loss : 0.10266213863086636 , epoch 178
+eval/Mean Reciprocal Rank : 0.13463301104413056 , epoch 178
+eval/MSE : 0.9469662308692932 , epoch 178
+training/Factorization Loss : 0.09912673872645184 , epoch 179
+training/MSE : 0.5593948458792061 , epoch 179
+training/Joint Loss : 0.10372942068203482 , epoch 179
+eval/Mean Reciprocal Rank : 0.13444878311819622 , epoch 179
+eval/MSE : 0.938873827457428 , epoch 179
+training/Factorization Loss : 0.09854694374746853 , epoch 180
+training/MSE : 0.5581063278099542 , epoch 180
+training/Joint Loss : 0.10314253825814493 , epoch 180
+eval/Mean Reciprocal Rank : 0.13445485350245115 , epoch 180
+eval/MSE : 0.9343984127044678 , epoch 180
+training/Factorization Loss : 0.0978668724256818 , epoch 181
+training/MSE : 0.5590413485163002 , epoch 181
+training/Joint Loss : 0.10247861782229074 , epoch 181
+eval/Mean Reciprocal Rank : 0.13788584250218652 , epoch 181
+eval/MSE : 0.9406496286392212 , epoch 181
+training/Factorization Loss : 0.0989803597331047 , epoch 182
+training/MSE : 0.5594321984437204 , epoch 182
+training/Joint Loss : 0.10358487912804208 , epoch 182
+eval/Mean Reciprocal Rank : 0.1381977644611215 , epoch 182
+eval/MSE : 0.9408383965492249 , epoch 182
+training/Factorization Loss : 0.09942110927314848 , epoch 183
+training/MSE : 0.5589270865724932 , epoch 183
+training/Joint Loss : 0.10401617015601806 , epoch 183
+eval/Mean Reciprocal Rank : 0.1383909041261563 , epoch 183
+eval/MSE : 0.9418509602546692 , epoch 183
+training/Factorization Loss : 0.0985775700700219 , epoch 184
+training/MSE : 0.5585920719369766 , epoch 184
+training/Joint Loss : 0.10317771554353737 , epoch 184
+eval/Mean Reciprocal Rank : 0.14026833650655413 , epoch 184
+eval/MSE : 0.9347189664840698 , epoch 184
+training/Factorization Loss : 0.09786134323365586 , epoch 185
+training/MSE : 0.5587921467038893 , epoch 185
+training/Joint Loss : 0.1024706519098692 , epoch 185
+eval/Mean Reciprocal Rank : 0.14010460776170197 , epoch 185
+eval/MSE : 0.9365406036376953 , epoch 185
+training/Factorization Loss : 0.09887849577572397 , epoch 186
+training/MSE : 0.5575044785616219 , epoch 186
+training/Joint Loss : 0.10346475624108828 , epoch 186
+eval/Mean Reciprocal Rank : 0.13965472195153114 , epoch 186
+eval/MSE : 0.9461920857429504 , epoch 186
+training/Factorization Loss : 0.09943836280495248 , epoch 187
+training/MSE : 0.559160524718864 , epoch 187
+training/Joint Loss : 0.1040355854978164 , epoch 187
+eval/Mean Reciprocal Rank : 0.14074620053659448 , epoch 187
+eval/MSE : 0.9442713856697083 , epoch 187
+training/Factorization Loss : 0.09698883816599846 , epoch 188
+training/MSE : 0.5574496315531833 , epoch 188
+training/Joint Loss : 0.10159344719572654 , epoch 188
+eval/Mean Reciprocal Rank : 0.13986894953954276 , epoch 188
+eval/MSE : 0.9371028542518616 , epoch 188
+training/Factorization Loss : 0.0985508253898031 , epoch 189
+training/MSE : 0.557411700807592 , epoch 189
+training/Joint Loss : 0.10313943501121255 , epoch 189
+eval/Mean Reciprocal Rank : 0.1388565852454724 , epoch 189
+eval/MSE : 0.9467450976371765 , epoch 189
+training/Factorization Loss : 0.09850584118757197 , epoch 190
+training/MSE : 0.5569665250919198 , epoch 190
+training/Joint Loss : 0.10309044872560809 , epoch 190
+eval/Mean Reciprocal Rank : 0.14045664540893862 , epoch 190
+eval/MSE : 0.9434105753898621 , epoch 190
+training/Factorization Loss : 0.09643197067642725 , epoch 191
+training/MSE : 0.5573330894913725 , epoch 191
+training/Joint Loss : 0.10104098266130813 , epoch 191
+eval/Mean Reciprocal Rank : 0.13919053404298365 , epoch 191
+eval/MSE : 0.9468884468078613 , epoch 191
+training/Factorization Loss : 0.09618493348800687 , epoch 192
+training/MSE : 0.5575632700516332 , epoch 192
+training/Joint Loss : 0.100798717339433 , epoch 192
+eval/Mean Reciprocal Rank : 0.13901265872810492 , epoch 192
+eval/MSE : 0.9529078006744385 , epoch 192
+training/Factorization Loss : 0.09564383113406279 , epoch 193
+training/MSE : 0.5571531707080462 , epoch 193
+training/Joint Loss : 0.1002589251485563 , epoch 193
+eval/Mean Reciprocal Rank : 0.1398602549593334 , epoch 193
+eval/MSE : 0.9390759468078613 , epoch 193
+training/Factorization Loss : 0.09724518315245707 , epoch 194
+training/MSE : 0.5565726257139637 , epoch 194
+training/Joint Loss : 0.1018384582993965 , epoch 194
+eval/Mean Reciprocal Rank : 0.13815368036561693 , epoch 194
+eval/MSE : 0.9492522478103638 , epoch 194
+training/Factorization Loss : 0.09659586368148686 , epoch 195
+training/MSE : 0.5551780032855208 , epoch 195
+training/Joint Loss : 0.1011816859145158 , epoch 195
+eval/Mean Reciprocal Rank : 0.1400744796313681 , epoch 195
+eval/MSE : 0.9507669806480408 , epoch 195
+training/Factorization Loss : 0.09671513503918083 , epoch 196
+training/MSE : 0.5559767213880374 , epoch 196
+training/Joint Loss : 0.10130775148069025 , epoch 196
+eval/Mean Reciprocal Rank : 0.14001167566205797 , epoch 196
+eval/MSE : 0.9495130777359009 , epoch 196
+training/Factorization Loss : 0.09697096672670175 , epoch 197
+training/MSE : 0.5556100570867138 , epoch 197
+training/Joint Loss : 0.1015573587313655 , epoch 197
+eval/Mean Reciprocal Rank : 0.1383429916114838 , epoch 197
+eval/MSE : 0.9410998225212097 , epoch 197
+training/Factorization Loss : 0.09667644779928909 , epoch 198
+training/MSE : 0.5564854118612504 , epoch 198
+training/Joint Loss : 0.10127453828450814 , epoch 198
+eval/Mean Reciprocal Rank : 0.13927387158273197 , epoch 198
+eval/MSE : 0.9547045826911926 , epoch 198
+training/Factorization Loss : 0.09552338565148974 , epoch 199
+training/MSE : 0.5557352818789021 , epoch 199
+training/Joint Loss : 0.10012550544874962 , epoch 199
+eval/Mean Reciprocal Rank : 0.1380503513769697 , epoch 199
+eval/MSE : 0.9564232230186462 , epoch 199

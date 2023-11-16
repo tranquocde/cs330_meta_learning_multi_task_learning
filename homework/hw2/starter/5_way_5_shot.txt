@@ -1,0 +1,4 @@
+log_dir: /Users/quocdetran/Documents/HUST/cs330_meta_learning_multi_task_learning/homework/hw2/starter/logs/protonet/omniglot.way:5.support:1.query:5.lr:0.001.batch_size:16
+Loaded checkpoint iteration 4000.
+Testing on tasks with composition num_way=5, num_support=5, num_query=15
+Accuracy over 600 test tasks: mean 0.997, 95% confidence interval 0.001
